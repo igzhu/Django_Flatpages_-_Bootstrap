@@ -1,6 +1,7 @@
 # Django Flat Pages and Bootstrap template conjunction.
 
 Это пример сайта разработанного на фреймворке Django (использованы Django Flat Pages и шаблон Bootstrap).
+
 admin name: adm
 password: django_first
 
