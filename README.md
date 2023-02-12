@@ -1,6 +1,6 @@
-# Django Flat Pages and Bootstrap template conjunction.
+# Django FlatPages and Bootstrap template conjunction.
 
-Это пример сайта разработанного на фреймворке Django (использованы Django Flat Pages и шаблон Bootstrap).
+Это пример сайта разработанного на фреймворке Django (использованы Django FlatPages и шаблон Bootstrap).
 
 admin name: adm
 
@@ -8,7 +8,7 @@ password: django_first
 
 =====================================================================
 
-# Django Flat Pages and Bootstrap template conjunction.
+# Django FlatPages and Bootstrap template conjunction.
 
-This is a mockup project based on Django Flat Pages.
+This is a mockup project based on Django FlatPages.
 The Bootstrap template used.
