@@ -56,4 +56,4 @@ add Django Flatpages:
   ]
 
 
-///adm django_first
+///name:adm  password:django_first

@@ -1,15 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>{{ flatpage.title }}</title>
-</head>
-<body>
+{% extends 'flatpages/default.html' %}
+
+{% block title_1 %}
+    {{ flatpage.title }}
+{% endblock title_1 %}
+
+{% block title%}
+    {{ flatpage.title }}
+{% endblock title %}
+
+{% block content%}
     {{ flatpage.content }}
     <hr>
     <hr>
     <h3><span style="color:#9b59b6"><span style="font-family:Georgia,serif"><span style="font-size:28px"><strong>
         {{ flatpage.content }}
-    </strong></span></span></span></h3
-</body>
-</html>
+    </strong></span></span></span></h3>
+{% endblock content %}
