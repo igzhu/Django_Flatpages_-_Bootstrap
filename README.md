@@ -11,4 +11,4 @@ password: django_first
 # Django FlatPages and Bootstrap template conjunction.
 
 This is a mockup project based on Django FlatPages.
-The Bootstrap template used.
+Also Bootstrap (css,js) template was used.
